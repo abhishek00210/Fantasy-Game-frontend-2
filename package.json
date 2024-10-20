@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://fantansy-game-backend.onrender.com",
+ 
   "eslintConfig": {
     "extends": [
       "react-app",
